@@ -11,4 +11,4 @@
 - rm -rf  ULTRA-GREEN
 - git clone https://github.com/DX-NAHID420/ULTRA-GREEN
 - cd ULTRA-GREEN
-- dx-n4h1d-x_Pro.py
+- python dx-n4h1d-x_Pro.py
