@@ -12,3 +12,5 @@
 - git clone https://github.com/DX-NAHID420/ULTRA-GREEN
 - cd ULTRA-GREEN
 - python dx.py
+
+- ![Picsart_24-04-01_14-21-03-090](https://github.com/DX-NAHID420/ULTRA-GREEN/assets/129710462/538b56ce-eece-4464-bad0-d8c3766962e4)
